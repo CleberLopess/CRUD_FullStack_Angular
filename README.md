@@ -13,11 +13,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### 🎲 Rodando o Back End (servidor)
 
-Neste projeto voce vai precisar estar dentro da pasta **backend** e rodar o comando `bash yarn start`, fazendo isso, você roda o backend e estará pronto para rodar o frontend.
+Neste projeto voce vai precisar estar dentro da pasta **backend** e rodar o comando `yarn start`, fazendo isso, você roda o backend e estará pronto para rodar o frontend.
 
 feito o processo não feche o terminal, ou o backend será interrompido.
 
-Agora você terá que entrar na pasta **frontend** e rodar o comando `bash yarn start`, fazendo isso, o projeto ja irá rodar e voce poderá abrir a rota - [localHost](http://localhost:4200/).
+Agora você terá que entrar na pasta **frontend** e rodar o comando `yarn start`, fazendo isso, o projeto ja irá rodar e voce poderá abrir a rota - [localHost](http://localhost:4200/).
 
 Agora você esta pronto para utilizar o CRUD.
 
